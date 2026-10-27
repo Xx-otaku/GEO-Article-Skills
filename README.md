@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="GEO Article Skills：从品牌知识到可信文章的六个内容技能" width="100%">
+  <img src="assets/hero.jpg" alt="GEO Article Skills：从品牌知识到可信文章的六个内容技能" width="100%">
 </p>
 
 <p align="center">
