@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 460" role="img" aria-labelledby="title description">
+  <title id="title">GEO Article Skills</title>
+  <desc id="description">Six content skills connect brand knowledge, questions, writing, and review.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102920"/>
+      <stop offset="1" stop-color="#071511"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e3f59e"/>
+      <stop offset="1" stop-color="#9ad7b3"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#d4ebd5" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="460" rx="28" fill="url(#background)"/>
+  <rect width="1400" height="460" rx="28" fill="url(#grid)"/>
+  <circle cx="1220" cy="-40" r="260" fill="#d6eea1" fill-opacity=".07"/>
+  <circle cx="1220" cy="-40" r="335" fill="none" stroke="#d9f1b6" stroke-opacity=".10"/>
+  <circle cx="1220" cy="-40" r="405" fill="none" stroke="#d9f1b6" stroke-opacity=".07"/>
+  <rect x="68" y="56" width="255" height="35" rx="17.5" fill="#d7eda1" fill-opacity=".13" stroke="#d7eda1" stroke-opacity=".3"/>
+  <circle cx="88" cy="73.5" r="4" fill="#d9f3a1"/>
+  <text x="103" y="79" fill="#dcefb0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">KNOWLEDGE → CONTENT</text>
+  <text x="66" y="190" fill="#f5f7e9" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">GEO Article</text>
+  <text x="66" y="270" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-3">Skills</text>
+  <text x="70" y="320" fill="#c8d8ce" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing=".2">Thoughtful content, grounded in knowledge.</text>
+  <line x1="70" y1="365" x2="710" y2="365" stroke="#e4f1df" stroke-opacity=".18"/>
+  <text x="70" y="398" fill="#a8c1ae" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">6 SKILLS</text>
+  <text x="191" y="398" fill="#5b806a" font-family="Arial, Helvetica, sans-serif" font-size="13">/</text>
+  <text x="219" y="398" fill="#a8c1ae" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">ONE REVIEWABLE WORKFLOW</text>
+  <g transform="translate(850 94)">
+    <rect x="0" y="0" width="470" height="278" rx="22" fill="#102a21" fill-opacity=".92" stroke="#c9e4ca" stroke-opacity=".2"/>
+    <text x="30" y="43" fill="#d3e8bd" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">FROM QUESTIONS TO ANSWERS</text>
+    <rect x="30" y="68" width="193" height="75" rx="12" fill="#193b2d" stroke="#9ac6a0" stroke-opacity=".22"/>
+    <circle cx="53" cy="94" r="5" fill="#cbe789"/>
+    <text x="68" y="99" fill="#edf6e4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Knowledge</text>
+    <text x="48" y="124" fill="#9db5a3" font-family="Arial, Helvetica, sans-serif" font-size="12">Sources &amp; verified facts</text>
+    <rect x="247" y="68" width="193" height="75" rx="12" fill="#193b2d" stroke="#9ac6a0" stroke-opacity=".22"/>
+    <circle cx="270" cy="94" r="5" fill="#cbe789"/>
+    <text x="285" y="99" fill="#edf6e4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Questions</text>
+    <text x="265" y="124" fill="#9db5a3" font-family="Arial, Helvetica, sans-serif" font-size="12">Ideas with a purpose</text>
+    <rect x="30" y="158" width="193" height="75" rx="12" fill="#193b2d" stroke="#9ac6a0" stroke-opacity=".22"/>
+    <circle cx="53" cy="184" r="5" fill="#cbe789"/>
+    <text x="68" y="189" fill="#edf6e4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Writing</text>
+    <text x="48" y="214" fill="#9db5a3" font-family="Arial, Helvetica, sans-serif" font-size="12">Useful, clear answers</text>
+    <rect x="247" y="158" width="193" height="75" rx="12" fill="#d4eaa1"/>
+    <circle cx="270" cy="184" r="5" fill="#27563b"/>
+    <text x="285" y="189" fill="#173428" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Review</text>
+    <text x="265" y="214" fill="#4b6950" font-family="Arial, Helvetica, sans-serif" font-size="12">Evidence &amp; refinement</text>
+    <text x="31" y="258" fill="#7fa38a" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">HUMAN READABLE  •  AI FRIENDLY</text>
+  </g>
+</svg>

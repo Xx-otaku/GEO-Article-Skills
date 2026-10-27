@@ -1,0 +1,3 @@
+interface:
+  display_name: "文章改写"
+  short_description: "依据修改要求或审核报告改善文章，保留可靠事实，交付新版本和问题处理记录。"

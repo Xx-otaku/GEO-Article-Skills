@@ -1,0 +1,3 @@
+interface:
+  display_name: "问题集选题"
+  short_description: "围绕品牌问题集生成全量选题地图，推荐文章类型，并深化选中文章的简报。"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "文章审核与复审"
+  short_description: "对照企业知识核验文章事实、计算与引用，检查内容质量并交付分级修改要求。"
